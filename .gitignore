@@ -1,0 +1,155 @@
+node_modules/
+
+
+.env
+.encryptedKey.json
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# ----------------------------------------------
+
+/nft-marketplace-sol-harhat/.encryptedKey.json
+
+# dependencies
+/nft-marketplace-sol-harhat/node_modules
+/nft-marketplace-sol-harhat/.pnp
+/nft-marketplace-sol-harhat/.pnp.js
+
+# testing
+/nft-marketplace-sol-harhat/coverage
+
+# next.js
+/nft-marketplace-sol-harhat/.next/
+/nft-marketplace-sol-harhat/out/
+
+# production
+/nft-marketplace-sol-harhat/build
+
+# misc
+/nft-marketplace-sol-harhat/.DS_Store
+/nft-marketplace-sol-harhat/*.pem
+
+# debug
+/nft-marketplace-sol-harhat/npm-debug.log*
+/nft-marketplace-sol-harhat/yarn-debug.log*
+/nft-marketplace-sol-harhat/yarn-error.log*
+/nft-marketplace-sol-harhat/.pnpm-debug.log*
+
+# local env files
+/nft-marketplace-sol-harhat/.env.local
+/nft-marketplace-sol-harhat/.env.development.local
+/nft-marketplace-sol-harhat/.env.test.local
+/nft-marketplace-sol-harhat/.env.production.local
+
+# vercel
+/nft-marketplace-sol-harhat/.vercel
+
+/nft-marketplace-sol-harhat/.env 
+/nft-marketplace-sol-harhat/artifacts
+/nft-marketplace-sol-harhat/cache 
+/nft-marketplace-sol-harhat/coverage.json 
+
+/nft-marketplace-sol-harhat/front-end/node_modules
+/nft-marketplace-sol-harhat/frp
+/nft-marketplace-sol-harhat/frpc.ini
+/nft-marketplace-sol-harhat/front-end/testMoralis.html
+/nft-marketplace-sol-harhat/front-end-typescript/node_modules
+/nft-marketplace-sol-harhat/front-end-typescript/nft-marketplace-graph/node_modules
+/nft-marketplace-sol-harhat/front-end/nft-marketplace-graph/node_modules
+/nft-marketplace-sol-harhat/deployments
+
+# typescript
+/nft-marketplace-sol-harhat/*.tsbuildinfo
+
+/nft-marketplace-sol-harhat/front-end-typescript/.next
+/nft-marketplace-sol-harhat/front-end-typescript/node_modules
+/nft-marketplace-sol-harhat/front-end-typescript/graph-nft-marketplace/node_modules
+/nft-marketplace-sol-harhat/typechain-types
+
+
+/thegraph/.encryptedKey.json
+
+# dependencies
+/thegraph/node_modules
+/thegraph/.pnp
+/thegraph/.pnp.js
+
+# testing
+/thegraph/coverage
+
+# next.js
+/thegraph/.next/
+/thegraph/out/
+
+# production
+/thegraph/build
+
+# misc
+/thegraph/.DS_Store
+/thegraph/*.pem
+
+# debug
+/thegraph/npm-debug.log*
+/thegraph/yarn-debug.log*
+/thegraph/yarn-error.log*
+/thegraph/.pnpm-debug.log*
+
+# local env files
+/thegraph/.env.local
+/thegraph/.env.development.local
+/thegraph/.env.test.local
+/thegraph/.env.production.local
+
+# vercel
+/thegraph/.vercel
+
+/thegraph/.env 
+/thegraph/artifacts
+/thegraph/cache 
+/thegraph/coverage.json 
+
+/thegrapgh/front-end/node_modules
+/thegraph/frp
+/thegraph/frpc.ini
+/thegraph/front-end/testMoralis.html
+/thegraph/front-end-typescript/node_modules
+/thegraph/front-end-typescript/nft-marketplace-graph/node_modules
+/thegraph/front-end/nft-marketplace-graph/node_modules
+/thegraph/deployments
+
+# typescript
+/thegraph/*.tsbuildinfo
+
+/thegraph/front-end-typescript/.next
+/thegraph/front-end-typescript/node_modules
+/thegraph/front-end-typescript/graph-nft-marketplace/node_modules
+/thegraph/typechain-types
