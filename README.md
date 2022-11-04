@@ -4,6 +4,8 @@ A marketplace for buying and selling NFTs on the etherium blockchain
 - Support for multiple wallet providers
 - Buy and Sell NFTs
 
+You can view the app here: http://nft-marketplace-ten-eosin.vercel.app/
+
 [![Run on Repl.it](https://replit.com/badge/github/losercreates/nft-marketplace)](https://replit.com/new/github/losercreates/nft-marketplace)
 
 ## Minimal Quickstart
