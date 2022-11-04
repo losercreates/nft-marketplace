@@ -14,7 +14,6 @@ async function main() {
     console.log(`Working with contrat address ${contractAddress}`)
 
     let itemListedOptions = {
-        // Moralis understands a local chain is 1337
         chainId: moralisChainId,
         sync_historical: true,
         topic: "ItemListed(address,address,uint256,uint256)",
